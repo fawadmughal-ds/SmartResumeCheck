@@ -2,6 +2,7 @@ Flask
 gunicorn
 flask_cors
 nltk
+sentence-transformers
 werkzeug==2.0.1
 numpy>=2.0.0
 scikit-learn>=1.3.0
